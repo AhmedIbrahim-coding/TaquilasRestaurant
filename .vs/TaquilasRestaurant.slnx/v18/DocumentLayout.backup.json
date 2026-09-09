@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\programming\\Projects\\TaquilasRestaurant\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Data\\Migrations\\20260909080701_AddedImageUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaquilasRestaurant\\Data\\Migrations\\20260909080701_AddedImageUrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,8 +58,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Repository.cs",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Repository.cs",
+              "RelativeToolTip": "TaquilasRestaurant\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:45:03.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryOptions.cs",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\QueryOptions.cs",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\QueryOptions.cs",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\QueryOptions.cs",
+              "RelativeToolTip": "TaquilasRestaurant\\Models\\QueryOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:35:12.873Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -51,6 +93,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\IRepository.cs",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\IRepository.cs",
+              "RelativeToolTip": "TaquilasRestaurant\\Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:29:02.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260909080701_AddedImageUrl.cs",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Data\\Migrations\\20260909080701_AddedImageUrl.cs",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\Data\\Migrations\\20260909080701_AddedImageUrl.cs",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Data\\Migrations\\20260909080701_AddedImageUrl.cs",
+              "RelativeToolTip": "TaquilasRestaurant\\Data\\Migrations\\20260909080701_AddedImageUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:07:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\appsettings.json",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\appsettings.json",
@@ -58,12 +126,11 @@
               "RelativeToolTip": "TaquilasRestaurant\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-08T07:57:41.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T07:57:41.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Ingrediant.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Ingrediant.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Ingrediant.cs",
@@ -71,12 +138,11 @@
               "RelativeToolTip": "TaquilasRestaurant\\Models\\Ingrediant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:14:52.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T09:14:52.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ProductIngrediant.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\ProductIngrediant.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\ProductIngrediant.cs",
@@ -88,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Category.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Category.cs",
@@ -100,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Product.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Product.cs",
@@ -108,12 +174,11 @@
               "RelativeToolTip": "TaquilasRestaurant\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:06:28.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T09:06:28.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\OrderItem.cs",
@@ -125,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Order.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Order.cs",
@@ -137,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\ApplicationUser.cs",
