@@ -14,24 +14,42 @@ namespace TaquilasRestaurant.Models
             _dbSet = _context.Set<T>();
         }
 
-        public Task<T> AddAsync(T entity)
+        public async Task<T> AddAsync(T entity)
+        {
+            await _dbSet.AddAsync(entity);
+            await _context.SaveChangesAsync();
+            return entity;
+        }
+
+        public async Task<T> DeleteAsync(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Task<T> DeleteAsync(int id)
+        public async Task<IEnumerable<T>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await _dbSet.ToListAsync();
         }
 
-        public Task<IEnumerable<T>> GetAllAsync()
+        public async Task<T> GetById(int id, QueryOptions<T> options)
         {
-            throw new NotImplementedException();
-        }
+            IQueryable<T> query = _dbSet;
+            if (options.WasWhere) 
+            {
+                query = query.Where(options.Where);
+            }
+            if (options.HasOrderBy)
+            {
+                query = query.OrderBy(options.OrderBy);
+            }
+            foreach(string include in options.GetIncludes())
+            {
+                query = query.Include(include);
+            }
 
-        public Task<T> GetById(int id, QueryOptions<T> options)
-        {
-            throw new NotImplementedException();
+            var key = _context.Model.FindEntityType(typeof(T)).FindPrimaryKey().Properties.FirstOrDefault();
+            string PrimaryKey = key?.Name;
+            return await query.FirstOrDefaultAsync(e => EF.Property<int>(e, PrimaryKey) == id);
         }
 
         public Task<T> UpdateAsync(T entity)
