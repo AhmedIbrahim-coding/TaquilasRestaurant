@@ -21,9 +21,11 @@ namespace TaquilasRestaurant.Models
             return entity;
         }
 
-        public async Task<T> DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            T entity = await _dbSet.FindAsync(id);
+            _dbSet.Remove(entity);
+            await _context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<T>> GetAllAsync()
@@ -52,9 +54,10 @@ namespace TaquilasRestaurant.Models
             return await query.FirstOrDefaultAsync(e => EF.Property<int>(e, PrimaryKey) == id);
         }
 
-        public Task<T> UpdateAsync(T entity)
+        public async Task UpdateAsync(T entity)
         {
-            throw new NotImplementedException();
+            _dbSet.Update(entity);
+            await _context.SaveChangesAsync();
         }
     }
 }

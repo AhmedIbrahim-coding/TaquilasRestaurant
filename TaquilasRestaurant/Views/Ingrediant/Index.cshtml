@@ -5,6 +5,7 @@
 }
 
 <h1>Ingrediants</h1>
+<a asp-action="Create" class="btn btn-primary">Create Ingrediant</a>
 <table class="table">
 <thead>
     <tr>
@@ -21,6 +22,8 @@
                 </td>
                 <td>
                     <a asp-action="Details" asp-route-id="@i.IngrediantId">Details</a>
+                    <a asp-action="Edit" asp-route-id="@i.IngrediantId">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@i.IngrediantId">Delete</a>
                 </td>
             </tr>
 
