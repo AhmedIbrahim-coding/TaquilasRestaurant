@@ -221,7 +221,6 @@ D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
-D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\z48kl6kr9r-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\lxc22ktm8t-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\rxp7ai0rw9-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\hvgbyczk9z-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -297,3 +296,4 @@ D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\TaquilasRestaurant.pdb
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\TaquilasRestaurant.genruntimeconfig.cache
 D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\ref\TaquilasRestaurant.dll
+D:\programming\Projects\TaquilasRestaurant\TaquilasRestaurant\obj\Debug\net10.0\compressed\z48kl6kr9r-{0}-c34vwwv265-c34vwwv265.gz

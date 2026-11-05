@@ -3,60 +3,28 @@
   "WorkspaceRootPath": "D:\\programming\\Projects\\TaquilasRestaurant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\views\\ingrediant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\views\\ingrediant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\controllers\\ingrediantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\controllers\\ingrediantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\views\\ingrediant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\views\\ingrediant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\ingrediant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\ingrediant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\productingrediant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\productingrediant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|d:\\programming\\projects\\taquilasrestaurant\\taquilasrestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C92C3AE-17CD-84C4-4978-BECA06F40C2D}|TaquilasRestaurant\\TaquilasRestaurant.csproj|solutionrelative:taquilasrestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,54 +46,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\IRepository.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\IRepository.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\IRepository.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T11:21:20.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Repository.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Repository.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Repository.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\Repository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAADsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T11:19:40.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Ingrediant\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Views\\Ingrediant\\Edit.cshtml",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Ingrediant\\Edit.cshtml",
-              "RelativeToolTip": "TaquilasRestaurant\\Views\\Ingrediant\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-02T11:06:02.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Ingrediant\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Views\\Ingrediant\\Index.cshtml",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Ingrediant\\Index.cshtml",
-              "RelativeToolTip": "TaquilasRestaurant\\Views\\Ingrediant\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T10:58:06.956Z",
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TaquilasRestaurant\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-05T14:43:27.162Z",
               "EditorCaption": ""
             },
             {
@@ -136,121 +65,60 @@
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Controllers\\IngrediantController.cs",
               "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Controllers\\IngrediantController.cs",
               "RelativeToolTip": "TaquilasRestaurant\\Controllers\\IngrediantController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowEEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T10:51:03.475Z",
+              "WhenOpened": "2026-11-04T11:50:54.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ingrediant.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Ingrediant.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Ingrediant.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Ingrediant.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\Ingrediant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TaquilasRestaurant\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:14:52.303Z",
+              "WhenOpened": "2026-11-04T11:50:16.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductIngrediant.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\ProductIngrediant.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\ProductIngrediant.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\ProductIngrediant.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\ProductIngrediant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:12:02.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Category.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Category.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:09:07.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Product.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Product.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T09:06:28.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\OrderItem.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\OrderItem.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:56:18.104Z"
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaquilasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:46:03.968Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\Order.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\Order.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:51:59.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Program.cs",
               "RelativeDocumentMoniker": "TaquilasRestaurant\\Program.cs",
               "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Program.cs",
               "RelativeToolTip": "TaquilasRestaurant\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T10:55:14.103Z"
+              "WhenOpened": "2026-11-04T11:45:08.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T11:08:12.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "TaquilasRestaurant\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "TaquilasRestaurant\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:50:59.749Z"
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaquilasRestaurant\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\programming\\Projects\\TaquilasRestaurant\\TaquilasRestaurant\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TaquilasRestaurant\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:41:14.431Z",
+              "EditorCaption": ""
             }
           ]
         }

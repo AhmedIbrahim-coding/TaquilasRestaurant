@@ -6,13 +6,13 @@ namespace TaquilasRestaurant.Controllers
 {
     public class IngrediantController : Controller
     {
-        private Repository<Ingrediant> ingrediants;
+        private IRepository<Ingrediant> ingrediants;
 
-        public IngrediantController(ApplicationDbContext context)
+        public IngrediantController(IRepository<Ingrediant> ingrediants)
         {
-            ingrediants = new Repository<Ingrediant>(context);
+            this.ingrediants = ingrediants;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index()    
         {
             return View(await ingrediants.GetAllAsync());
         }

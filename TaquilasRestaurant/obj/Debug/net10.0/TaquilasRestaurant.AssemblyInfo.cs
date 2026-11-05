@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaquilasRestaurant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12d65e76c0bdb21154a3b6e5a2d3648b340b547c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d72cbed8f4f3973d580809b520b27ab64c8c5fbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaquilasRestaurant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaquilasRestaurant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
